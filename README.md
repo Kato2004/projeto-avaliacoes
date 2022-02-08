@@ -1,6 +1,8 @@
-# Projeto Página de Avaliações
+# Página de Avaliações
 
-Desenvolvimento de um simples projeto CRUD, uma página de avaliações com comentários que contém autor, nota (número de estrelas de 0 a 5) e o comentário que contém a opnião do autor
+Desenvolvimento de um simples projeto CRUD, uma página de avaliações com comentários que contém autor, nota (número de estrelas de 0 a 5) e o comentário que contém a opnião do autor.
+
+Gostei muito de fazer esse projeto, principalmente porque foi o primeiro back-end que eu criei no começo estava inseguro porém vi que com os conhecimentos que eu já tinha em JavaScript e TypeScript foram o suficiente para criar um projeto funcionando, fiquei feliz também porque consegui consumir fazer o CRUD no front-end e consumir os dados.
 
 ## Tecnologias
 
@@ -22,20 +24,29 @@ Desenvolvimento de um simples projeto CRUD, uma página de avaliações com come
 - Mongoose
 - Pg
 
-- Banco de dados NoSQL MongoDB
-- Uso do superconjunto sintático escrito de JavaScript o TypeScript
-- Também foi usada a biblioteca JavaScript React no front-end e o back-end o Node
-- No front-end foi utlizado a biblioteca React, álem disso foi utilizado algumas outras bibliotecas 
+## Configuração
+
+Antes de iniciar é preciso ter instalado em sua máquina o [NodeJS](https://nodejs.org/pt-br/download/).
 
 
-Faça a instalação das dependencias
+Com tudo pronto intale as dependências contidas no arquivo `package.json`.
+  ```
+  npm install
+  ```
+  
+Após isso é so entrar nos arquivos e iniciar o back-end, abrir um novo terminal e inicar o front-end.
 
-`npm install`
+  Back:
+  ```
+  cd ./front
+  npm start
+  ```
+  Front:
+  ```
+  cd ./back
+  npm run dev
+  ```
+  
+## Álem disso...
 
-Entre no arquivo Back e inicie o back-end com o código
-
-`npm run dev`
-
-Entre no arquivo Front e inicie o front-end com o código
-
-`npm start`
+Caso queira dar uma crítica, ajuda ou sugestão para o projeto pesso que por favor entre em contato comigo, estou apenas começando e adoraria sua ajuda :smile:
