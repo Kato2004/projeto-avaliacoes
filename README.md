@@ -2,7 +2,7 @@
 
 Desenvolvimento de um simples projeto CRUD, uma página de avaliações com comentários que contém autor, nota (número de estrelas de 0 a 5) e o comentário que contém a opnião do autor.
 
-Gostei muito de fazer esse projeto, principalmente porque foi o primeiro back-end que eu criei no começo estava inseguro porém vi que com os conhecimentos que eu já tinha em JavaScript e TypeScript foram o suficiente para criar um projeto funcionando, fiquei feliz também porque consegui consumir fazer o CRUD no front-end e consumir os dados.
+Gostei muito de fazer esse projeto, principalmente porque foi o primeiro back-end que eu criei no começo estava inseguro porém vi que com os conhecimentos que eu já tinha em JavaScript e TypeScript foram o suficiente para criar um projeto funcionando, fiquei feliz também porque consegui fazer o CRUD no front-end e consumir os dados.
 
 ## Tecnologias
 
@@ -50,3 +50,7 @@ Após isso é so entrar nos arquivos e iniciar o back-end, abrir um novo termina
 ## Álem disso...
 
 Caso queira dar uma crítica, ajuda ou sugestão para o projeto pesso que por favor entre em contato comigo, estou apenas começando e adoraria sua ajuda :smile:
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaua-alves
+)
